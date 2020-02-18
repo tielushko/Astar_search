@@ -1,5 +1,3 @@
-Oleg Tielushko U48136789
-Tyler Brown U47820527
 
 Description of the program:
 The Program is an implementation of an A* algorithm for the graph traversal, using the input from 2 files: locations.txt and connections.txt
